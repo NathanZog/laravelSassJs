@@ -1,0 +1,37 @@
+.bread{
+    background-color: #E9ECEF;
+    display: flex;
+    align-items: center;
+    height : 10vh;
+    font-size: 25px;
+    border-radius: 15px/15px;
+}
+.breadcrumb{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.divTxtSect1{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E9ECEF;
+    border-radius: 15px/15px;
+}
+.titreSect1{
+    font-size: 60px;
+}
+.txt1{
+    border-bottom: solid #343A40 1px;
+    width: 90%;
+}
+
+.button1{
+    padding: 10px;
+    border: none;
+    border-radius: 10px/10px;
+}
+.bonus{
+    text-align: center;
+}

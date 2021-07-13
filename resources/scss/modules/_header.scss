@@ -1,0 +1,43 @@
+header{
+    background-color:#343A40;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+.headerBand{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;    
+    align-items: center;
+}
+.headerTitle{
+    color: purple;
+}
+.titre{
+    text-decoration: none;
+    color: purple;
+    font-size: 40px;
+}
+.linkHeader{
+    display: flex;
+    color: gray;
+    width: 30%;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+.txtTitle{
+    color: lightgray;
+    text-decoration: none;
+}
+
+.titre:hover{
+    text-decoration: none;
+    color: rgba(128, 0, 128, 0.815);
+}
+
+.txtTitle:hover{
+    text-decoration: none;
+    color: gray;
+}

@@ -1,0 +1,19 @@
+.section2{
+    display: flex;
+}
+.partieGauche{
+    width: 55%;
+    height: 55vh;
+    background-color: #CCCCCC;
+    border-radius: 15px/15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+    color: #989898;
+}
+.partieDroite{
+    width: 25%;
+    margin-left: 7.5vw;
+    font-size: 18.25px;
+}
